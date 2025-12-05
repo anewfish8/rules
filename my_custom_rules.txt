@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,rudderstack.com
+DOMAIN-SUFFIX,chameleon.io
+DOMAIN-SUFFIX,make.com
+DOMAIN-SUFFIX,notion.co
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
