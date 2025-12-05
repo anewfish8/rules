@@ -1,9 +1,9 @@
-DOMAIN-SUFFIX,rudderstack.com
-DOMAIN-SUFFIX,chameleon.io
+DOMAIN-SUFFIX,rudderstack.com,🌍 国外媒体
+DOMAIN-SUFFIX,chameleon.io,🌍 国外媒体
 DOMAIN-SUFFIX,make.com,🌍 国外媒体
-DOMAIN-SUFFIX,notion.co
-DOMAIN-SUFFIX,notionusercontent.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,hsex.men
-DOMAIN-SUFFIX,thai-language.com
+DOMAIN-SUFFIX,notion.co,🌍 国外媒体
+DOMAIN-SUFFIX,notionusercontent.com,🌍 国外媒体
+DOMAIN-SUFFIX,redd.it,🌍 国外媒体
+DOMAIN-SUFFIX,reddit.com,🌍 国外媒体
+DOMAIN-SUFFIX,hsex.men,🌍 国外媒体
+DOMAIN-SUFFIX,thai-language.com,,DIRECT
