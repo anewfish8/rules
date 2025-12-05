@@ -1,1 +1,9 @@
 DOMAIN-SUFFIX,thai-language.com
+DOMAIN-SUFFIX,pushnp.svc.ms
+DOMAIN-SUFFIX,68lc57-my.sharepoint.com
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-KEYWORD,elecom.co.jp
+DOMAIN-KEYWORD,onedrive
+PROCESS-NAME,quark.exe
+PROCESS-NAME,onedrive.exe
