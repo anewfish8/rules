@@ -27,5 +27,3 @@ DOMAIN-KEYWORD,pixnet
 DOMAIN-KEYWORD,sumatrapdfreader
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,fiddlertool
-PROCESS-NAME,Z-Library.exe
-PROCESS-NAME,calibre.exe
