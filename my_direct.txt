@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,thai-language.com,DIRECT
+# 不需要写策略组，因为脚本里指定了去“DIRECT”
+DOMAIN-SUFFIX,thai-language.com
