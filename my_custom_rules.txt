@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,notion.co
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,hsex.men
