@@ -19,3 +19,12 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,xvideos.com
+DOMAIN-KEYWORD,chinadigitaltimes
+DOMAIN-KEYWORD,gamersky
+DOMAIN-KEYWORD,pixnet
+DOMAIN-KEYWORD,sumatrapdfreader
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,fiddlertool
+PROCESS-NAME,Z-Library.exe
+PROCESS-NAME,Steam.exe
+PROCESS-NAME,calibre.exe
