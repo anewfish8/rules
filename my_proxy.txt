@@ -1,4 +1,3 @@
-# 不需要写策略组，因为脚本里指定了去“🌍 国外媒体”
 DOMAIN-SUFFIX,rudderstack.com
 DOMAIN-SUFFIX,chameleon.io
 DOMAIN-SUFFIX,make.com
