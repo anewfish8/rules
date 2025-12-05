@@ -6,3 +6,16 @@ DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,hsex.men
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,shuge.org
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,yhdm.one
+DOMAIN-SUFFIX,xvideos.com
