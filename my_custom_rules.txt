@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,notionusercontent.com,🌍 国外媒体
 DOMAIN-SUFFIX,redd.it,🌍 国外媒体
 DOMAIN-SUFFIX,reddit.com,🌍 国外媒体
 DOMAIN-SUFFIX,hsex.men,🌍 国外媒体
-DOMAIN-SUFFIX,thai-language.com,,DIRECT
+DOMAIN-SUFFIX,thai-language.com,DIRECT
