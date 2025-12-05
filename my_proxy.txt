@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,rudderstack.com
 DOMAIN-SUFFIX,chameleon.io
 DOMAIN-SUFFIX,make.com
@@ -26,5 +28,4 @@ DOMAIN-KEYWORD,sumatrapdfreader
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,fiddlertool
 PROCESS-NAME,Z-Library.exe
-PROCESS-NAME,Steam.exe
 PROCESS-NAME,calibre.exe
