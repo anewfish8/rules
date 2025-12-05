@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,rudderstack.com
 DOMAIN-SUFFIX,chameleon.io
-DOMAIN-SUFFIX,make.com
+DOMAIN-SUFFIX,make.com,🌍 国外媒体
 DOMAIN-SUFFIX,notion.co
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,redd.it
