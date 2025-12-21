@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-KEYWORD,chinadigitaltimes
 DOMAIN-KEYWORD,gamersky
 DOMAIN-KEYWORD,pixnet
