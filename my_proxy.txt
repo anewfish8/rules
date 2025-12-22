@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-KEYWORD,notebooklm
 DOMAIN-SUFFIX,skyvpnx.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,store.steampowered.com
