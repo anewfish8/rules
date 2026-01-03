@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,kokusho.nijl.ac.jp
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,microsoft.com
