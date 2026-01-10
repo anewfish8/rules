@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-KEYWORD,notebooklm
 DOMAIN-SUFFIX,skyvpnx.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,store.steampowered.com
@@ -35,6 +33,7 @@ DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,notebooklm
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,chinadigitaltimes
 DOMAIN-KEYWORD,gamersky
