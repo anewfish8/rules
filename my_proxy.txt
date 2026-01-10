@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,m365.cloud.microsoft
 DOMAIN-SUFFIX,make.powerautomate.com
 DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,kokusho.nijl.ac.jp
@@ -36,6 +35,7 @@ DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,yhdm.one
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,chinadigitaltimes
 DOMAIN-KEYWORD,gamersky
 DOMAIN-KEYWORD,pixnet
